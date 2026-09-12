@@ -1,4 +1,4 @@
-# Finance Chat
+# Innova Finance 
 
 Aplicativo de organização financeira baseado em Inteligência Artificial Conversacional.
 

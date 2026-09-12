@@ -1,4 +1,4 @@
-# 💰 mInnova Finance 
+# 💰 Innova Finance 
 
 Aplicativo de organização financeira pessoal baseado em Inteligência Artificial Conversacional.
 

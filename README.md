@@ -1,10 +1,16 @@
-# 💰 Innova Finance 
+# 💰 Innova Finance
 
-Aplicativo de organização financeira pessoal baseado em Inteligência Artificial Conversacional.
+> Organize sua vida financeira através de Inteligência Artificial Conversacional.
 
-O objetivo é permitir que qualquer pessoa controle receitas, despesas, metas financeiras e sua reserva de emergência utilizando linguagem natural, eliminando a necessidade de preenchimento manual de formulários.
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
 
----
+![React](https://img.shields.io/badge/React-19-blue)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+
+![Supabase](https://img.shields.io/badge/Supabase-green)
+
+![Gemini](https://img.shields.io/badge/Google-Gemini-orange)
 
 # 🚀 Objetivo do Projeto
 

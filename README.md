@@ -54,7 +54,38 @@ O sistema também oferece:
 
 # 🧠 Prompt Final (PRD)
 
-Durante o desenvolvimento foi utilizado um **PRD (Product Requirements Document)** como contexto principal para orientar a IA.
+## 📋 Estruturação do **PRD (Product Requirements Document)** como contexto principal para orientar a IA.
+
+O desenvolvimento do **Innova Finance** iniciou pela criação de um **PRD (Product Requirements Document)**, utilizado como documento central para orientar todas as decisões de produto e desenvolvimento.
+
+Durante essa etapa foram definidos:
+
+- 🎯 Objetivo do projeto
+- 👥 Público-alvo e personas
+- ❗ Problema que o aplicativo resolve
+- 📱 Jornada e fluxo do usuário
+- ⚙️ Funcionalidades do MVP
+- 📐 Regras de negócio
+- 🗄️ Modelagem inicial do banco de dados
+- 🔌 Estrutura das APIs
+- 🤖 Comportamento da Inteligência Artificial
+- 🏗️ Arquitetura técnica da aplicação
+- 📅 Roadmap do produto
+- ✅ Backlog de tarefas para implementação
+
+Essa documentação serviu como base para orientar o **Claude Code**, **Antigravity IDE** e outras ferramentas de IA durante o desenvolvimento, reduzindo ambiguidades e permitindo gerar código de forma mais consistente.
+
+**Documentação completa:**
+
+```text
+docs/01-PRD.md
+```
+
+### 📸 Estruturação do PRD
+
+> Adicione abaixo uma captura de tela do processo de criação do PRD.
+
+![Criação do PRD](docs/images/prd.png)
 
 O PRD define:
 

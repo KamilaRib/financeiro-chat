@@ -172,11 +172,54 @@ Exemplo:
 
 ## Arquitetura do Sistema
 
-> Adicione aqui um diagrama da arquitetura.
+## 🏗️ Arquitetura do Sistema
 
+O **Innova Finance** utiliza uma arquitetura moderna baseada em **React**, **Supabase** e **Google Gemini**, priorizando uma estrutura desacoplada, escalável e preparada para futuras integrações.
+
+```mermaid
+flowchart TD
+
+    U[👤 Usuário]
+
+    U --> PWA[📱 Innova Finance PWA<br/>React + TypeScript + Tailwind]
+
+    PWA --> AUTH[🔐 Supabase Auth]
+
+    PWA --> DB[(🗄️ PostgreSQL<br/>Supabase)]
+
+    PWA --> LOCAL[(📱 Local Storage)]
+
+    PWA --> EDGE[⚡ Edge Functions]
+
+    EDGE --> GEMINI[🤖 Google Gemini API]
+
+    GEMINI --> AI[🧠 Agente Financeiro]
+
+    AI --> DB
+
+    DB --> DASH[📊 Dashboard]
+
+    DB --> HIST[📋 Histórico]
+
+    DB --> META[🎯 Metas]
+
+    DB --> PERFIL[👤 Perfil]
 ```
-docs/images/architecture.png
-```
+
+### Fluxo da Aplicação
+
+1. O usuário registra receitas e despesas utilizando linguagem natural.
+2. O aplicativo envia a solicitação para uma Edge Function do Supabase.
+3. A Edge Function consulta o Google Gemini para interpretar a mensagem.
+4. A IA identifica automaticamente:
+   - Valor
+   - Categoria
+   - Tipo (Receita ou Despesa)
+   - Data
+   - Descrição
+5. Os dados são armazenados no PostgreSQL (Supabase).
+6. O Dashboard, Histórico e Metas são atualizados automaticamente.
+7. Quando offline, as informações permanecem armazenadas localmente e são sincronizadas com o Supabase quando a conexão é restabelecida.
 
 ---
 

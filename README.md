@@ -143,7 +143,11 @@ docs/
 > Adicione aqui uma captura de tela do PRD sendo criado.
 
 ```
-docs/images/prd.png
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/88d55fcb-3807-464d-8ab3-4a6879507f4d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a52e3aaa-792a-4444-8a89-f5dfcb491fb6" />
+
+
 ```
 
 ---
@@ -155,11 +159,14 @@ docs/images/prd.png
 Exemplo:
 
 ```
-docs/images/chatgpt.png
 
-docs/images/claude-code.png
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5bf481f6-1c08-46d1-8fff-08b74ef1bd48" />
 
-docs/images/antigravity.png
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a0ebfe2-6a74-4348-9ca0-1257bc3b2c2f" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb3571dd-cbf3-4061-9b64-bd7c3f953736" />
+
 ```
 
 ---

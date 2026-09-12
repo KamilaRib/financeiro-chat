@@ -137,6 +137,27 @@ docs/images/architecture.png
 
 ---
 
+### Melhorias realizadas com IA
+
+Durante o desenvolvimento, utilizei o Claude Code para revisar a interface inicial.
+
+A partir dessa interação, foi sugerida e implementada uma **Bottom Navigation Bar**, melhorando significativamente a experiência do usuário em dispositivos móveis.
+
+A navegação passou a contar com acesso direto às principais funcionalidades do aplicativo:
+
+- Dashboard
+- Chat
+- Histórico
+- Metas
+- Perfil
+
+Essa abordagem demonstrou como ferramentas de IA podem auxiliar não apenas na implementação, mas também na evolução da experiência do usuário.
+
+feat(ui): adiciona barra de navegação inferior para melhorar a experiência mobile
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b2ffcc61-4b4f-46f9-bb42-f00873ec25aa" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/48d7ae5c-07bc-4268-b73a-95ad1315e194" />
+
+
 # 📚 Tecnologias
 
 - React

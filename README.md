@@ -1,24 +1,24 @@
 # 💰 Innova Finance
 
-> Organize sua vida financeira através de Inteligência Artificial Conversacional.
+> Organize suas finanças de forma simples e inteligente através de Inteligência Artificial Conversacional.
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
+![Versão](https://img.shields.io/badge/version-0.1.0-orange)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-2-3ECF8E?logo=supabase&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?logo=google&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-![React](https://img.shields.io/badge/React-19-blue)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
-
-![Supabase](https://img.shields.io/badge/Supabase-green)
-
-![Gemini](https://img.shields.io/badge/Google-Gemini-orange)
+Aplicativo de organização financeira pessoal desenvolvido durante o desafio da DIO utilizando **Vibe Coding**, **Claude Code**, **GitHub Copilot**, **Google Gemini** e **React**.
 
 # 🚀 Objetivo do Projeto
 
 Este projeto foi desenvolvido durante o desafio da DIO com foco em **Vibe Coding**, utilizando IA como apoio ao processo de desenvolvimento.
 
-O objetivo foi aprender a transformar uma ideia em um produto estruturado, utilizando documentação técnica (PRD), engenharia de prompts e ferramentas de desenvolvimento assistidas por IA.
+O objetivo é permitir que qualquer pessoa registre receitas, despesas, metas financeiras e acompanhe sua reserva de emergência através de linguagem natural, proporcionando uma experiência simples, intuitiva e inteligente.
 
----
 
 # 💡 Conceito do Aplicativo
 
